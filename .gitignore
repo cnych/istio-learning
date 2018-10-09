@@ -4,5 +4,6 @@ _book
 *.pdf
 *.epub
 bin/
-istio-*
+*.tar.gz
 *.yaml
+istio-1.0.2/*
