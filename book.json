@@ -5,8 +5,10 @@
     "author": "阳明",
     "links": {
         "sidebar": {
-            "阳明的博客": "https://blog.qikqiak.com",
-            "优点知识": "https://youdianzhishi.com"
+            "阳明的博客": "https://www.qikqiak.com",
+            "优点知识": "https://youdianzhishi.com",
+            "从Docker到Kubernetes进阶": "https://www.qikqiak.com/k8s-book/",
+            "python微服务实战": "https://www.qikqiak.com/tdd-book/"
         }
     },
     "plugins": [
@@ -37,7 +39,7 @@
             ]
         },
         "github": {
-            "url": "https://github.com/cnych/kubernetes-learning"
+            "url": "https://github.com/cnych/istio-learning"
         },
         "simple-page-toc": {
             "maxDepth": 3,
@@ -52,7 +54,7 @@
             "size": "small"
         },
         "sitemap-general": {
-            "prefix": "https://k8s.qikqiak.com"
+            "prefix": "https://www.qikqiak.com/istio-book/"
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright © qikqiak.com 2018",
